@@ -214,3 +214,7 @@
 	2.没有指定需要的头文件或路径错误:
 
 	fatal error: 'libavcodec/mathops.h' file not found
+
+2、为什么looper.loop不会阻塞主线程
+	
+	https://www.jianshu.com/p/72c44d567640
